@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XamarinPOU</string>
+    <string name="action_settings">Settings</string>
+  <string name="tvTime">Tempo</string>
+  <string name="ivPOU_content_description">Imagem do POU</string>
+  <string name="btnFeed">Alimentar</string>
+</resources>
